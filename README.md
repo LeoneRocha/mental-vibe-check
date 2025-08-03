@@ -73,5 +73,4 @@ This project is under the MIT license.
 ---
 
 ## 📞 Contato / Contact
-
-Leone Rocha — [Seu email ou LinkedIn]
+ 
